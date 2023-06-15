@@ -31,7 +31,7 @@
     height: fit-content;
   }
   section {
-    margin: 0.5%;
+    margin: 0 5%;
   }
   .section__pic-container {
     width: 275px;
@@ -59,7 +59,7 @@
     height: fit-content;
     margin-bottom: 2rem;
   }
-  .about-container,
+  .about-containers,
   .contact-info-upper-container,
   .btn-container {
     flex-wrap: wrap;
