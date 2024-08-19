@@ -307,6 +307,10 @@ section {
 
 /* Experience Section */
 
+#about {
+  font-size: large;
+}
+
 #experience {
   position: relative;
 }
